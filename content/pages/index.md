@@ -34,7 +34,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Home
+      label: Homepagina
       color: text-primary
       type: Badge
     elementId: ''
