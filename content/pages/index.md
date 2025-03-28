@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Technisch service bedrijf voor beeld, licht & geluid'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "#### Wij zijn opgericht in 1994 als technisch service bedrijf voor beeld, licht & geluid. Omdat er steeds meer raakvlakken kwamen met de IT-markt, zijn we ons ook bezig gaan houden met ICT. Bij ons kunt u terecht voor reparatie, installatie en faciliteiten op het gebied van: beeld; licht; geluid; muziekapparatuur & ICT. Wij omringen onze activiteiten met een goede nazorg en “schuiven dus geen dozen”! Kwaliteit staat bij ons hoog in het vaandel en we proberen dan ook altijd de juiste balans te vinden tussen prijs, kwaliteit en duurzaamheid. Voor iedereen streven we dan ook naar een passende oplossing, dat doen we o.a. voor: kerken; scholen; instellingen; bedrijven & particulieren. Voor muzikanten, zangkoren/-groepen, & bands bieden we de speciale\_[IAVS ‘On-stage’ Service](http://www.iavs.nl/?page_id=408\\&preview=true).\n\n#### Heeft u vragen? Schroom niet, maar neem gerust contact met ons op: we zijn een klein bedrijf, dus “de lijnen” zijn kort! Wellicht kunnen we u een keer van dienst zijn.\_Onze dagelijkse activiteiten zijn te volgen op onze Facebook-pagina\_ en\_ van tijd tot tijd vullen we deze website met onze bezigheden. Als\_[**06-53452618**](http://wa.link/8dcdrg)\_wordt\_ toevoegt aan uw smartphone-contacten, dan kunt u ons ook een “Whatsapp” sturen:\n\n\n\n"
     actions:
       - label: Get started
         altText: ''
