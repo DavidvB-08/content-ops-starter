@@ -7,7 +7,7 @@ sections:
       text: Welkom bij IAVS!
       color: text-dark
       type: TitleBlock
-    subtitle: 'technisch service bedrijf voor beeld, licht & geluid'
+    subtitle: 'Technisch service bedrijf voor beeld, licht & geluid'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
